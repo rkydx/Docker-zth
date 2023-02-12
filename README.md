@@ -5,7 +5,6 @@ A container is a standardized software component that wraps up code and all of i
 
 In other words, an application container is a collection of your application, the application libraries needed to run it, and the bare minimal set of system dependencies.
 
-https://user-images.githubusercontent.com/43399466/217262726-7cabcb5b-074d-45cc-950e-84f7119e7162.png
 
 
 
