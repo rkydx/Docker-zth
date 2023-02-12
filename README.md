@@ -5,7 +5,7 @@ A container is a standardized software component that wraps up code and all of i
 
 In other words, an application container is a collection of your application, the application libraries needed to run it, and the bare minimal set of system dependencies.
 
-
+![image](https://user-images.githubusercontent.com/48356601/218322744-b05cdf5d-4553-4623-bc6b-c768b06b090e.png)
 
 
 ## Virtual Machine Vs Containers
@@ -30,7 +30,7 @@ Let's use an illustration to try to comprehend this:
 
 The official Ubuntu base image, which you can use for your container, is seen in the screenshot below. It's only 22 MB, isn't that incredibly small? On the other hand, the official Ubuntu VM image is close to 2.3 GB. So the base image for containers is almost 100 times smaller than the VM image.
 
-!(https://user-images.githubusercontent.com/43399466/217493284-85411ae0-b283-4475-9729-6b082e35fc7d.png)
+![image](https://user-images.githubusercontent.com/43399466/217493284-85411ae0-b283-4475-9729-6b082e35fc7d.png)
 
 
 To give a more accurate representation of the files and folders that containers base images have and the files and folders that containers use from the host operating system (not always exact because it depends on the base image). See below.
